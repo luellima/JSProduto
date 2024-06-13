@@ -67,7 +67,7 @@ function ListaDeTarefas() {
 
     return (
         <div className="lista-de-tarefas">
-            <h1>Carrinho de Produtos do Gustavo Oliveira</h1>
+            <h1>Carrinho de Produtos - Lucas Rafael</h1>
             <Navbar />
             {mostrarFormulario && (
                 <div className="adicionar-tarefa">
